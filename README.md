@@ -1,4 +1,5 @@
 Project Title - Renting Application
+
 Rentify is a web application designed to simplify the process of renting properties for both landlords (sellers) and tenants (buyers). With features tailored to meet the needs of users on both sides of the rental market, Rentify aims to streamline property listing, viewing, and application processes.
 
 echnologies Used
